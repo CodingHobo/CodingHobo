@@ -12,5 +12,3 @@ Please feel free to get in touch!
 📧 tourtanya@gmail.com
 
 ![image](https://github.com/CodingHobo/CodingHobo/assets/111654143/a8042760-e0e5-451c-bc79-9fb80190b357)
-
-
