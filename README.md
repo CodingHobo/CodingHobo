@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I am a Full-Stack Web Developer, adept at employing cutting-edge front-end frameworks and libraries, coupled with proficiency in relational database management. Enriching background in the Music Industry, having managed tour operations, coordinated transportation, and planned logistics with expertise in project and event management. Driven by a commitment to fostering equity and accessibility, I channel my enthusiasm towards creative problem-solving and crafting efficient solutions with a people-centric approach.</p>
+<p>I am a Full-Stack Web Developer, adept at employing cutting-edge front-end frameworks and libraries, coupled with proficiency in relational database management. I have an enriching background in the Music Industry, having managed tour operations, coordinated transportation, and planned logistics with expertise in project and event management. I am driven by a commitment to fostering equity and accessibility, I channel my enthusiasm towards creative problem-solving and crafting efficient solutions with a people-centric approach.</p>
 
 🖥 <b> Languages:</b> JavaScript, Python, HTML, CSS, TypeScript, SQL<br>
 📑 <b> Libraries / Frameworks:</b> React, Django, Flask, Bootstrap, jQuery, Node.js, Express, SQLAlchemy, Axios, cURL<br>
